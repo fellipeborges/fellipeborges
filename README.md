@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fellipe Borges</h1>
 <h3 align="center">A passionate tech lead from Brazil.</h3>
 
-- 🔭 I’m currently working on [IQVIA](https://www.iqvia.com/)
+- 🔭 I’m currently working at [IQVIA](https://www.iqvia.com/)
 
-- 🌱 I’m currently learning **Angular, Scala and Kubernetes.**
+- 🌱 I’m currently learning **Databricks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fellipeborges?tab=repositories](https://github.com/fellipeborges?tab=repositories)
 
 - 💬 Ask me about **C#, Architecture and Agile.**
 
-- 📫 How to reach me **fellipeborges@gmail.com**
+- 📫 Reach me at **fellipeborges@gmail.com**
 
 - ⚡ Fun fact **I have a photo collection of a specific car model hit in the trunk.**
 
